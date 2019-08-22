@@ -19,7 +19,4 @@ public class Main {
         
         DusanMilic.info();
     }
-    
-    
-    
 }

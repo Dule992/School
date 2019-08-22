@@ -64,7 +64,8 @@ public class Student {
     
         System.out.println("First name: " +  + this.firstname + "Last name: " + this.lastname + "Year of birth: " + this.yearOfBirth + "Course name: " + this.course + "Course number of classes: ");
     }
-    
-    
+
+
+
     
 }
